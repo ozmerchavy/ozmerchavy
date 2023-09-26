@@ -1,16 +1,29 @@
-### Hi there 👋
+# Readme
 
-<!--
-**ozmerchavy/ozmerchavy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Check out my [**portfolio**](https://ozmerchavy.github.io) 🚀
 
-Here are some ideas to get you started:
+## Projects 📦
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### The Snake Universe 🐍
+- [GitHub Repository](https://github.com/ozmerchavy/snake)
+The game that kept expanding.
+
+### Dominos Pie Rates 🍕
+- [GitHub Repository](https://github.com/ozmerchavy/dominos-pie-rates)
+Chrome Extension for Dominos Pizza.
+
+### ML Amoebas 🧠
+- [GitHub Repository](https://github.com/ozmerchavy/reinforcement-learning-amoebas)
+Reinforcement Learning Amoebas.
+
+### IP GeoLinker 🌐
+- [GitHub Repository](https://github.com/ozmerchavy/getIPLocation)
+Chrome Extension for CRMs.
+
+### FPS Calculator 🎮
+- [Website](https://kayacameras.com/fps-calculator/)
+Frontend solution for sensors.
+
+### Who is App 🕵️
+- [GitHub Repository](https://github.com/ozmerchavy/who-is-app)
+Monitor WiFi with Nmap and Nginx.

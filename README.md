@@ -1,6 +1,6 @@
 # Readme
 
-## Check out my [**portfolio**](https://ozmerchavy.github.io) 🚀
+## [**Check out my portfolio**](https://ozmerchavy.github.io) 🚀
 
 ## Projects 📦
 
